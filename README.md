@@ -4,5 +4,5 @@ This is the INFO 3340 Monte Carlo Simulation. Below is the document writeup for 
 
 
 Monte Carlo Summary:
-[Monte_Carlo_Project_Simulation.pdf][Monte_Carlo_Project_Simulation (5).pdf](https://github.com/user-attachments/files/17091411/Monte_Carlo_Project_Simulation.5.pdf)
+[Monte_Carlo_Project_Simulation.pdf]: (https://github.com/user-attachments/files/17091411/Monte_Carlo_Project_Simulation.5.pdf)
 
