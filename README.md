@@ -6,5 +6,5 @@ Feel free to also download and try the code!
 
 
 Monte Carlo Summary:
-[Monte_Carlo_Project_Simulation.pdf] [Monte_Carlo_Project_Simulation (7).pdf](https://github.com/user-attachments/files/17100788/Monte_Carlo_Project_Simulation.7.pdf)
+[Monte_Carlo_Project_Simulation.pdf] (https://github.com/user-attachments/files/17100788/Monte_Carlo_Project_Simulation.7.pdf)
 
